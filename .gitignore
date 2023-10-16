@@ -1,5 +1,4 @@
 **/__pycache__/
 **/tb_logs/**/events*
 **/logs/
-*.pt
 **/video/*.meta.json
