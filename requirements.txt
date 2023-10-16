@@ -1,0 +1,16 @@
+pytorch
+torchrl
+torchvision
+tensorboardX
+timeout-decorator
+pygame
+# moviepy
+git+https://github.com/Zulko/moviepy.git
+# make sure uninstalling existed before installing
+git+https://github.com/xmaples/nes-py.git
+humanize
+pytorch-ignite
+# wandb
+gym-super-mario-bros
+gymnasium~=0.29
+gym[mujoco]
